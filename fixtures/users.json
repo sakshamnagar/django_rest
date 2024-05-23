@@ -1,0 +1,40 @@
+[
+{
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$720000$8SYVy7rY09737Nxphz9VmK$SsX+m66jgd82oZf0V3PU6fIPREeUyBJdMUmprXl4j8E=",
+        "last_login": "2024-05-17T06:34:56Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "admin",
+        "last_name": "admin",
+        "email": "admin@admin.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2024-05-16T09:44:15Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 8,
+    "fields": {
+        "password": "pbkdf2_sha256$720000$Ew2aFl8JHJPztUQC6ox3WE$Q3TGMEpVmo44s6QeJdWZvCVS0SUJ/MWa/Ntg2dilpdg=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "sak",
+        "first_name": "Saksham",
+        "last_name": "Nagar",
+        "email": "saksham.web.moweb@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-05-17T06:35:25.975Z",
+        "groups": [
+            1
+        ],
+        "user_permissions": []
+    }
+}
+]
